@@ -1,0 +1,20 @@
+THTTEX APP · BẢN ĐÃ GẮN BACKEND
+
+ĐƯA LÊN GITHUB PAGES
+1. Tải index.html lên thư mục công khai của repository.
+2. Bật Settings > Pages. Chọn nhánh và thư mục chứa index.html.
+3. Mở đường dẫn GitHub Pages và thử gửi một câu hỏi, một khảo sát.
+
+DỮ LIỆU
+https://docs.google.com/spreadsheets/d/1w2JmWNMaNO1yV0P9x3iVNccROlUVCi38gVNSOmk398o/edit
+Questions: STT, Người hỏi, Câu hỏi, Câu trả lời.
+Responses: phản hồi khảo sát.
+Tên người hỏi để trống sẽ ghi Ẩn danh. Câu trả lời do THT nhập trong Sheet.
+
+BẢO TRÌ
+Code.gs là mã backend đã dùng. Khi thay backend, cập nhật deployment đang có để giữ nguyên URL /exec.
+Editor.html và JSON dùng để chỉnh sửa sau này. Nếu đổi câu hỏi hoặc lựa chọn, cần đồng bộ lại giao diện và Code.gs.
+Không cần đưa Code.gs, editor.html hoặc JSON lên repository công khai.
+Font Roboto tải từ Google Fonts khi có mạng.
+
+Chỉ tạo QR từ đường dẫn GitHub Pages đã kiểm tra hoạt động.
